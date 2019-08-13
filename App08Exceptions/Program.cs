@@ -51,7 +51,7 @@ namespace App08Exceptions
                     try
                     {
                         Console.WriteLine("Fejl i input: Indtast 2. tal");
-                        tal2 = Convert.ToInt32(Console.ReadLine());
+                        tal2 = Convert.ToInt32(Console.ReadLine() );
                         antal = 1000;
                     }
                     catch (Exception)
