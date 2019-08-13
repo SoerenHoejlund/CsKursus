@@ -33,8 +33,7 @@ namespace App08Exceptions
                     }
                     catch (Exception)
                     {
-                        antal++;
-                        Console.WriteLine("Fejl i input: Indtast 1. tal");
+                        antal++;                       
                     }
                 }
             }
@@ -56,8 +55,7 @@ namespace App08Exceptions
                     }
                     catch (Exception)
                     {
-                        antal++;
-                        Console.WriteLine("Fejl i input: Indtast 2. tal");
+                        antal++;                    
                     }
                 }
             }
