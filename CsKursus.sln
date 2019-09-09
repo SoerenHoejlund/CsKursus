@@ -31,17 +31,29 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "App12Klasser", "App12Klasse
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "App13Terning", "App13Terning\App13Terning.csproj", "{FD6D6335-3B77-4317-B00C-7848B908CB29}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App14Hukommelse", "App14Hukommelse\App14Hukommelse.csproj", "{2D625A01-FFEA-47AE-BA3E-6C1E2F5BAAC4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "App14Hukommelse", "App14Hukommelse\App14Hukommelse.csproj", "{2D625A01-FFEA-47AE-BA3E-6C1E2F5BAAC4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App15Konto", "App15Konto\App15Konto.csproj", "{FCB35411-8576-4C22-9248-797C76459081}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "App15Konto", "App15Konto\App15Konto.csproj", "{FCB35411-8576-4C22-9248-797C76459081}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App16EgenskabDemo", "App16EgenskabDemo\App16EgenskabDemo.csproj", "{7B266DDD-C4A8-499A-9F90-AAA6B5C2C604}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "App16EgenskabDemo", "App16EgenskabDemo\App16EgenskabDemo.csproj", "{7B266DDD-C4A8-499A-9F90-AAA6B5C2C604}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App17FuldEgenskab", "App17FuldEgenskab\App17FuldEgenskab.csproj", "{BCEF286E-D840-4395-8C0A-5940331E027E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "App17FuldEgenskab", "App17FuldEgenskab\App17FuldEgenskab.csproj", "{BCEF286E-D840-4395-8C0A-5940331E027E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App18AutoEgenskab", "App18FuldEgenskab\App18AutoEgenskab.csproj", "{23D2FB95-0A54-4ABA-80ED-15B403721F86}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "App18AutoEgenskab", "App18FuldEgenskab\App18AutoEgenskab.csproj", "{23D2FB95-0A54-4ABA-80ED-15B403721F86}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App19Udvid", "App19Udvid\App19Udvid.csproj", "{41AECEC9-6181-4955-A085-9403B913B6E6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "App19Udvid", "App19Udvid\App19Udvid.csproj", "{41AECEC9-6181-4955-A085-9403B913B6E6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App20AbstraktKlasse", "App20AbstraktKlasse\App20AbstraktKlasse.csproj", "{2E59E4CA-738C-472F-9E77-7DDC4107FC07}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App21Polymorfi", "App21Polymorfi\App21Polymorfi.csproj", "{109F159C-8B08-4524-A695-2008E7CC8EFD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App22Interface", "App22Interface\App22Interface.csproj", "{07F38269-F040-4EF6-A6D8-136FD9976EDE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App23Compare", "App23Compare\App23Compare.csproj", "{23D7D862-5E8A-4363-BA17-F07604433122}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App24Delegates", "App24Delegates\App24Delegates.csproj", "{91CC8D02-79EB-45CC-9A35-CDD638EA2367}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App25Regnemaskine", "App25Regnemaskine\App25Regnemaskine.csproj", "{7027BBA0-5646-4238-A4EA-8C4D14206FED}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -129,6 +141,30 @@ Global
 		{41AECEC9-6181-4955-A085-9403B913B6E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{41AECEC9-6181-4955-A085-9403B913B6E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{41AECEC9-6181-4955-A085-9403B913B6E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E59E4CA-738C-472F-9E77-7DDC4107FC07}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E59E4CA-738C-472F-9E77-7DDC4107FC07}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E59E4CA-738C-472F-9E77-7DDC4107FC07}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E59E4CA-738C-472F-9E77-7DDC4107FC07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{109F159C-8B08-4524-A695-2008E7CC8EFD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{109F159C-8B08-4524-A695-2008E7CC8EFD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{109F159C-8B08-4524-A695-2008E7CC8EFD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{109F159C-8B08-4524-A695-2008E7CC8EFD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07F38269-F040-4EF6-A6D8-136FD9976EDE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07F38269-F040-4EF6-A6D8-136FD9976EDE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07F38269-F040-4EF6-A6D8-136FD9976EDE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07F38269-F040-4EF6-A6D8-136FD9976EDE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23D7D862-5E8A-4363-BA17-F07604433122}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23D7D862-5E8A-4363-BA17-F07604433122}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23D7D862-5E8A-4363-BA17-F07604433122}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23D7D862-5E8A-4363-BA17-F07604433122}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91CC8D02-79EB-45CC-9A35-CDD638EA2367}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91CC8D02-79EB-45CC-9A35-CDD638EA2367}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91CC8D02-79EB-45CC-9A35-CDD638EA2367}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91CC8D02-79EB-45CC-9A35-CDD638EA2367}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7027BBA0-5646-4238-A4EA-8C4D14206FED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7027BBA0-5646-4238-A4EA-8C4D14206FED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7027BBA0-5646-4238-A4EA-8C4D14206FED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7027BBA0-5646-4238-A4EA-8C4D14206FED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
