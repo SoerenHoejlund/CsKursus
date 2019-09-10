@@ -43,17 +43,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "App18AutoEgenskab", "App18F
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "App19Udvid", "App19Udvid\App19Udvid.csproj", "{41AECEC9-6181-4955-A085-9403B913B6E6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App20AbstraktKlasse", "App20AbstraktKlasse\App20AbstraktKlasse.csproj", "{2E59E4CA-738C-472F-9E77-7DDC4107FC07}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "App20AbstraktKlasse", "App20AbstraktKlasse\App20AbstraktKlasse.csproj", "{2E59E4CA-738C-472F-9E77-7DDC4107FC07}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App21Polymorfi", "App21Polymorfi\App21Polymorfi.csproj", "{109F159C-8B08-4524-A695-2008E7CC8EFD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "App21Polymorfi", "App21Polymorfi\App21Polymorfi.csproj", "{109F159C-8B08-4524-A695-2008E7CC8EFD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App22Interface", "App22Interface\App22Interface.csproj", "{07F38269-F040-4EF6-A6D8-136FD9976EDE}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "App22Interface", "App22Interface\App22Interface.csproj", "{07F38269-F040-4EF6-A6D8-136FD9976EDE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App23Compare", "App23Compare\App23Compare.csproj", "{23D7D862-5E8A-4363-BA17-F07604433122}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "App23Compare", "App23Compare\App23Compare.csproj", "{23D7D862-5E8A-4363-BA17-F07604433122}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App24Delegates", "App24Delegates\App24Delegates.csproj", "{91CC8D02-79EB-45CC-9A35-CDD638EA2367}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "App24Delegates", "App24Delegates\App24Delegates.csproj", "{91CC8D02-79EB-45CC-9A35-CDD638EA2367}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App25Regnemaskine", "App25Regnemaskine\App25Regnemaskine.csproj", "{7027BBA0-5646-4238-A4EA-8C4D14206FED}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "App25Regnemaskine", "App25Regnemaskine\App25Regnemaskine.csproj", "{7027BBA0-5646-4238-A4EA-8C4D14206FED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App26Regnemaskine", "App26Regnemaskine\App26Regnemaskine.csproj", "{FDFEA965-0CD3-48AD-9345-0B229BDB5DD3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App27Lambda", "App27Lambda\App27Lambda.csproj", "{45DFAF92-489A-4AC2-AA65-BCC12301E63A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -165,6 +169,14 @@ Global
 		{7027BBA0-5646-4238-A4EA-8C4D14206FED}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7027BBA0-5646-4238-A4EA-8C4D14206FED}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7027BBA0-5646-4238-A4EA-8C4D14206FED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FDFEA965-0CD3-48AD-9345-0B229BDB5DD3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FDFEA965-0CD3-48AD-9345-0B229BDB5DD3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FDFEA965-0CD3-48AD-9345-0B229BDB5DD3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FDFEA965-0CD3-48AD-9345-0B229BDB5DD3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45DFAF92-489A-4AC2-AA65-BCC12301E63A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45DFAF92-489A-4AC2-AA65-BCC12301E63A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45DFAF92-489A-4AC2-AA65-BCC12301E63A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45DFAF92-489A-4AC2-AA65-BCC12301E63A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
